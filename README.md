@@ -1,2 +1,1 @@
-# PrepCourse-
-Repositorio del Modulo 2
+este repositorio es una prueba de como crear un repositorio en github y clonarlo para poder trabajar sobre el mismo ,el mismo tiene su locacion en el modulo 2
